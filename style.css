@@ -1,0 +1,12 @@
+body {
+    font-family: "comic sans MS";
+    color:black;
+    text-align:center;
+    font-size: 24px;
+}
+
+li {
+    color:red;
+    font-size: 30px;
+    text-align: center
+}
